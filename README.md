@@ -1,4 +1,4 @@
-## 🚨15.12.2025 НА ЛИНУКС ВРЕМЕННО НЕ РАБОТАЕТ // скоро дам линк на рабочую тему!!!🚨
+## 🚨15.12.2025 ВРЕМЕННО НЕ РАБОТАЕТ // скоро дам линк на рабочую тему!!!🚨
 
 ### ZAPRET-Linux-Windows
 
@@ -32,11 +32,6 @@
 ```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/web-pentest/ZAPRET-Linux-Windows/main/linux/installer.sh)"
 ```
-
-### Windows
-Откройте папку с Виндой которую вы скачали и откройте general.bat, всё.
-
----
 
 ## 📄 Лицензия
 
