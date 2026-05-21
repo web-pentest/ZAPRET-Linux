@@ -1,8 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00E0FF&center=true&vCenter=true&width=500&lines=ZAPRET+Linux;обход+блокировок+без+VPN" alt="Typing">
-</p>
-<p align="center">
-  <img src="https://64.media.tumblr.com/0c9f2a428b3d004a2c739778c92a0979/tumblr_nyoo6esu1X1t19jpho1_500.gif" width="500">
+  <img src="https://i1-c.pinimg.com/1200x/bc/a9/d6/bca9d647ce8df009e2e293e33c510dcc.jpg" width="500">
 </p>
 ## 🛡️ Что такое ZAPRET?
 
@@ -68,10 +65,12 @@ cd zapret-discord-youtube-linux
 
 MIT
 
-## 🔗 Связь со мной
+---
 
-[github.com/web-pentest](https://github.com/web-pentest)
+## 🔗 GitHub
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/ed/7c/d7/ed7cd734a851a1b78694bb1ac67e8332.gif" width="300">
+  <a href="https://github.com/web-pentest">
+    <img src="https://img.shields.io/badge/Мой%20GitHub-web--pentest-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
