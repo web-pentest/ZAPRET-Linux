@@ -11,7 +11,7 @@
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/Snowy-Fluffy/zapret.installer/refs/heads/main/installer.sh)"
 ```
 
-## 🎛️ Способ 2 (если 1 способ не подходит, полная инструкция снизу) !РЕКОМЕНДУЕТСЯ!
+## 🎛️ Способ 2 (если 1 способ не подходит, полная инструкция снизу.) РЕКОМЕНДУЕТСЯ!
 
 ### 1. Клонируй репозиторий
 
