@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://i1-c.pinimg.com/1200x/bc/a9/d6/bca9d647ce8df009e2e293e33c510dcc.jpg" width="500">
 </p>
+
 ## 🛡️ Что такое ZAPRET?
 
 **ZAPRET** — инструмент для обхода блокировок (YouTube, Discord, Telegram) на Linux. Работает без VPN.
