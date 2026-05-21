@@ -5,12 +5,13 @@
 ## 🛡️ Что такое ZAPRET?
 
 **ZAPRET** — инструмент для обхода блокировок (YouTube, Discord, Telegram) на Linux. Работает без VPN.
-## 🚀 Способ 1 (одна команда)
+## 🚀 Способ 1 (коротоко и ясно, вы разберетесь сами.)
 
 ```bash
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/Snowy-Fluffy/zapret.installer/refs/heads/main/installer.sh)"
 ```
-## 🎛️ Способ 2 (с меню)
+
+## 🎛️ Способ 2 (если 1 способ не подходит, полная инструкция снизу) !РЕКОМЕНДУЕТСЯ!
 
 ### 1. Клонируй репозиторий
 
