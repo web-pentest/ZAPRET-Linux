@@ -56,7 +56,7 @@ cd zapret-discord-youtube-linux
 - Fedora
 - Alt Linux
 - Void Linux
-- Alpine Linux
+- Alpine Linux 
 
 ## 🔗 Источники
 
